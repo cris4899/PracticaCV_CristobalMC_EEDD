@@ -8,5 +8,16 @@ namespace PracticaCV_CristobalMC
 {
     internal class CristobalMC
     {
+        // CONSTANTES
+
+        // MIEMBROS PRIVADOS
+
+        // CONSTRUCTORES
+
+        // PROPIEDADES
+
+        // MÉTODOS PRIVADOS
+
+        // MÉTODOS PÚBLICOS
     }
 }
