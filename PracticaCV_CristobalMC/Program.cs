@@ -1,4 +1,6 @@
-﻿namespace PracticaCV_CristobalMC
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace PracticaCV_CristobalMC
 {
     internal class Program
     {
@@ -13,6 +15,7 @@
             // PROCESO
 
             //SALIDA
+            Console.WriteLine("Mi nombre es: CristobalMC");
         }
     }
 }
